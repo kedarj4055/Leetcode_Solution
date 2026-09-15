@@ -18,11 +18,13 @@ Topics
 | ------- |
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -31,4 +33,20 @@ Topics
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
